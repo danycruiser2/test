@@ -1,0 +1,19 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>contact page</title>
+</head>
+<body>
+
+<h1>you can reach us by clicking any of the links below</h1>
+<ul>
+    <li><a href="http://instagram.com">instagram</a></li>
+    <li><a href="http://linkedin.com">linkedin</a></li>
+</ul>
+<h2>or call the following number: 0712345562</h2>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="contact.html">Contact</a>
+</body>
+</html>
